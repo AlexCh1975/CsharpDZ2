@@ -7,7 +7,7 @@
     918 -> 1
 */
 
-Console.Clear();
+//Console.Clear();
 
 int TransformNumber(int number)
 {
@@ -16,7 +16,7 @@ int TransformNumber(int number)
     return (number1 - number2) / 10;
 }
 
-Console.WriteLine("Введите 3-х значное число: ");
+Console.Write("Введите 3-х значное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 int transformNumber = TransformNumber(number);
