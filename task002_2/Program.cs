@@ -36,7 +36,7 @@ int GetNumberOfEnd(int number)
     return number;
 }
 
-// Из числа > трехзначеого получаем трехзначное
+// Из числа > трехзначного получаем трехзначное
 int StepDivisionNumber(int number)
 {
     if (number < 1000)
