@@ -20,7 +20,7 @@
         }
  }
 
-
+// Вводим число
  Console.Write("Введите число: ");
  string strNumber = Console.ReadLine();
  GetNumber(strNumber);
