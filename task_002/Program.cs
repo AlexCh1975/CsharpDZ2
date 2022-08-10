@@ -5,7 +5,7 @@
     78 -> третьей цифры нет
     32679 -> 6
 */
- Console.Clear();
+ //Console.Clear();
 
  void GetNumber(string strNumber)
  {
